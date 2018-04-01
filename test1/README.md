@@ -43,7 +43,7 @@ end fork
 @enduml
 ```
 
-![no1]()
+![no1](https://github.com/icemaplen/is_analysis/blob/master/test1/image/diagram-97712712282950996.png)
 
 ## 流程图2 - 客户维修服务流程
 ```
@@ -85,4 +85,4 @@ stop
 
 @enduml
 ```
-![no2]()
+![no2](https://github.com/icemaplen/is_analysis/blob/master/test1/image/diagram-473129481821428977.png)
