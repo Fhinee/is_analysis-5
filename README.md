@@ -5,3 +5,5 @@
 #### 个人网站：www.icemaplen.com
 ![logo](https://github.com/icemaplen/is_analysis/blob/master/icelogo.png)   
 
+#### 微信公众号：imbaozin
+![weixin](https://github.com/icemaplen/is_analysis/blob/master/icelogo.png)   
