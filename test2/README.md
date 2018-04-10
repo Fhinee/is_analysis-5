@@ -43,7 +43,7 @@ rectangle 图书管理系统 {
 
 ### 1.2. 用例图如下：
 
-![usecase](usecase.png)
+![usecase](https://github.com/icemaplen/is_analysis/blob/master/test2/image/20180410170120.png)
 
 ## 2. 参与者说明：
 
@@ -104,7 +104,7 @@ stop
 
 **“借阅图书”用例流程图源码如下：**
 
-![uc1_flow](usecase1_flow.jpg)
+![uc1_flow](https://github.com/icemaplen/is_analysis/blob/master/test2/image/20180410173656.png)
 
 ### 3.2 “归还图书”用例
 
@@ -137,4 +137,4 @@ stop
 
 **“购入图书”用例流程图源码如下：**
 
-![uc1_flow](usecase1_flow.jpg)
+![uc1_flow](https://github.com/icemaplen/is_analysis/blob/master/test2/image/20180410175151.png)
