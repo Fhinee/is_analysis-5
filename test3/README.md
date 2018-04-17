@@ -87,7 +87,7 @@ Borrow <-- Book
 
 ### 1.2. 类图如下：
 
-![class]("https://github.com/icemaplen/is_analysis/blob/master/test3/iamge/20180417155541.png")
+![class](https://github.com/icemaplen/is_analysis/blob/master/test3/iamge/20180417155541.png)
 
 ### 1.3. 类图说明：
 Reader 类是借阅者的类，包含很多属性，比如id，年龄，名字，性别等。其中主要操作有借书，还书等；
@@ -109,7 +109,7 @@ object Reader{
 @enduml
 ``` 
 #### 对象图如下：
-![class]("https://github.com/icemaplen/is_analysis/blob/master/test3/iamge/20180417160701.png")
+![class](https://github.com/icemaplen/is_analysis/blob/master/test3/iamge/20180417160701.png)
 
 ### 2.2 类Admin的对象图
 #### 源码如下：
@@ -122,7 +122,7 @@ object Admin{
 @enduml
 ``` 
 #### 对象图如下：
-![class]("https://github.com/icemaplen/is_analysis/blob/master/test3/iamge/20180417160836.png")
+![class](https://github.com/icemaplen/is_analysis/blob/master/test3/iamge/20180417160836.png)
 
 ### 2.3 类Book的对象图
 #### 源码如下：
@@ -138,7 +138,7 @@ object Book{
 @enduml
 ``` 
 #### 对象图如下：
-![class]("https://github.com/icemaplen/is_analysis/blob/master/test3/iamge/20180417161114.png")
+![class](https://github.com/icemaplen/is_analysis/blob/master/test3/iamge/20180417161114.png)
 
 ### 2.4 类Borrow的对象图
 #### 源码如下：
@@ -154,4 +154,4 @@ object Borrow{
 @enduml
 ``` 
 #### 对象图如下：
-![class]("https://github.com/icemaplen/is_analysis/blob/master/test3/iamge/20180417161329.png")
+![class](https://github.com/icemaplen/is_analysis/blob/master/test3/iamge/20180417161329.png)
