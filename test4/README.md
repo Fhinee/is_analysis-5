@@ -49,7 +49,7 @@ deactivate 借书者
 ```
 
 ## 1.2. 借书用例时序图
-![class](sequence1.png)
+![class](https://github.com/icemaplen/is_analysis/blob/master/test4/image/20180430153859.png)
 
 ## 1.3. 借书用例时序图说明
 参与者有借书者和图书管理员
@@ -97,7 +97,7 @@ deactivate 书者
 ```
 
 ## 2.2. 还书用例时序图
-![class](sequence2.png)
+![class](https://github.com/icemaplen/is_analysis/blob/master/test4/image/20180430154828.png)
 
 ## 2.3. 还书用例时序图说明
 还书者提供所借图书编号，管理员输入编号还书。
@@ -131,7 +131,7 @@ deactivate 读者
 ```
 
 ## 3.2. 查询图书用例时序图
-![class](sequence2.png)
+![class](https://github.com/icemaplen/is_analysis/blob/master/test4/image/%E6%88%AA%E5%9B%BE20180430155531.png)
 
 ## 3.3. 查询图书用例时序图说明
 读者输入图书名字，系统进行查询并返回查询信息。
