@@ -56,7 +56,7 @@
 
 ## 2. 界面设计
 ## 2.1. 借书界面设计
-![pic1](pic1.png)
+![pic1](https://github.com/icemaplen/is_analysis/blob/master/test5/image/20180508160025.png)
 - 用例图参见：借书用例
 - 类图参见：借书类，读者类
 - 顺序图参见：借书顺序图
