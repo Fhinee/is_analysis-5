@@ -37,7 +37,7 @@
 - ### [“评定成绩”用例](用例/评定成绩.md),[界面](https://icemaplen.github.io/is_analysis/test6/html/modifiedgrades.html)
 - ### [“查看成绩”用例](用例/查看成绩.md),[界面](https://icemaplen.github.io/is_analysis/test6/html/student.html)
 - ### [“修改密码”用例](用例/修改密码.md),[界面](https://icemaplen.github.io/is_analysis/test6/html/student.html)
-- ### [“修改用户信息”用例](用例/修改用户信息.md),[界面](https://icemaplen.github.io/is_analysis/test6/html/teacher.html)
+- ### [“修改用户信息”用例](用例/修改用户信息.md),[界面](https://icemaplen.github.io/is_analysis/test6/html/student.html)
 - ### [“查看用户信息”用例](用例/查看用户信息.md),[界面](https://icemaplen.github.io/is_analysis/test6/html/student.html)
 - ### [“登出”用例](用例/登出.md),[界面](https://icemaplen.github.io/is_analysis/test6/html/index.html)
 - ### [“登录”用例](用例/登录.md),[界面](https://icemaplen.github.io/is_analysis/test6/html/login.html)
